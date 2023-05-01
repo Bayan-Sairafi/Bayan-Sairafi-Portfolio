@@ -2,23 +2,26 @@
 
 ## The final data story
 
-  [(https://preview.shorthand.com/iAqpC6nbkLZ87wsS)] 
+  https://preview.shorthand.com/iAqpC6nbkLZ87wsS
+  
+ ### Identifying a topic: The first step I did was to identify a topic of interest. This step involved brainstorming ideas, researching current trends, and then I came up with the topic I chose. Next step was collecting relevant data. This step involved conducting surveys or interviews, analyzing existing data sets, or using other data collection methods. Analyzing data: After data has been collected, I needed to analyze it to identify trends, patterns, and insights. This involved using statistical software or other analytical tools to analyze the data. Creating a narrative: Once the data was analyzed, the next step was to create a narrative that tells a compelling story. This involved identifying key themes, developing a storyline, and using visual aids to communicate the data effectively. I created the presentation using shorthand, and the data graphs using Flourish. The final step was to present the project in a way that engages the audience and communicates the key findings effectively. It was challenging as the presentation had to be within sixty seconds, which required careful selection of the most impactful information.
 
 ## Changes made since Part II
 
+### 
 
 
 
-
-# The audience
+## The audience
 
 ### The intended audience for my data story is young females, it is important to consider their interests, needs, and prior knowledge of this topic. Young females may be particularly interested in stories they can relate to it such as body image, self-esteem, and mental health, as they are often targeted by unrealistic beauty standards and face unique challenges related to identity and self-worth. I provided actionable steps for young females to take away from the data story. It can help them build resilience and confidence. 
 
 
-# Final design decisions
+## Final design decisions
+
+
 ### You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
 
 # References
 ### 
