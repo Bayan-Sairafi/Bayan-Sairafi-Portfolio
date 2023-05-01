@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-<script src="https://carnegiemellon.shorthandstories.com/the-crisis-of-unrealistic-beauty-standards/embed.js"></script> 
+# <script src="https://carnegiemellon.shorthandstories.com/the-crisis-of-unrealistic-beauty-standards/embed.js"></script> 
 Text here!
 
 # Changes made since Part II
@@ -9,9 +9,10 @@ Text here!
 Text here!
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+# The intended audience for my data story is young females, it is important to consider their interests, needs, and prior knowledge of this topic. Young females may be particularly interested in stories they can relate to it such as body image, self-esteem, and mental health, as they are often targeted by unrealistic beauty standards and face unique challenges related to identity and self-worth.
 
-Text here!
+# I provided actionable steps for young females to take away from the data story. It can help them build resilience and confidence. 
+
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
@@ -19,11 +20,13 @@ Text here!
 Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
+# 
+#
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+# Creating a data story requires careful planning and attention to detail. It involves identifying a topic, collecting and analyzing data, and presenting the data in a clear and compelling way. Throughout the process, it is important to keep the audience in mind and to tailor the content and format to their needs and interests.
 
-Text here!
+# Here one of the biggest challenges I faceed is finding the right balance between data and storytelling. While the data is important for providing context and supporting the story, it is the narrative that truly engages and resonates with the audience. Therefore, it is crucial to use data to support the story and not let it overwhelm or confuse the audience.
+
+# Overall, creating a data story can be a rewarding process that requires a combination of creativity, analytical skills, and communication skills. It is an opportunity to use data to tell a compelling story, raise awareness about important issues, and inspire action.
+
