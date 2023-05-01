@@ -2,7 +2,7 @@
 
 ## The final data story
 
-  [<script src="https://carnegiemellon.shorthandstories.com/the-crisis-of-unrealistic-beauty-standards/embed.js"></script>] 
+  [(https://preview.shorthand.com/iAqpC6nbkLZ87wsS)] 
 
 ## Changes made since Part II
 
